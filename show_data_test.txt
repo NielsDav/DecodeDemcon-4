@@ -1,0 +1,14 @@
+show_1 2 6
+show_2 3 8
+show_3 1 4
+show_4 7 10
+show_5 5 17
+show_6 8 9
+show_15 37 44
+show_16 27 35
+show_17 36 39
+show_18 4 10
+show_19 35 44
+show_20 22 30
+show_21 15 20
+show_22 42 46
