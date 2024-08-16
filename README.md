@@ -1,4 +1,4 @@
-Decode Demcon Challenge #4 - Festival schedule generator
+## Decode Demcon Challenge #4 - Festival schedule generator
 
 Original instructions found at: https://mailing.demcon.com/lp/decode-demcon-challenge-festival-schedule-generator
 
