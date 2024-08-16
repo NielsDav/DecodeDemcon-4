@@ -1,3 +1,7 @@
+Decode Demcon Challenge #4 - Festival schedule generator
+
+Original instructions found at: https://mailing.demcon.com/lp/decode-demcon-challenge-festival-schedule-generator
+
 **Instructions on how to run the code:**
 
 To generate the schedule, run main.py
